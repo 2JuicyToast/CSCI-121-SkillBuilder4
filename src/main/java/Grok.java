@@ -15,7 +15,7 @@ public class Grok {
 
     // constructors
     /**
-     \* Initializes a Grok object to the default power level of 50.
+     * Initializes a Grok object to the default power level of 50.
      */
     public Grok() {
         setPowerLevel(DEFAULT_POWER_LEVEL);
